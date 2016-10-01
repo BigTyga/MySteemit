@@ -1,0 +1,15 @@
+C:\Users\Bola\Documents\Visual Studio 2013\Projects\Steemit-Widget\Steemit-Widget\bin\Release\Newtonsoft.Json.dll
+C:\Users\Bola\Documents\Visual Studio 2013\Projects\Steemit-Widget\Steemit-Widget\bin\Release\Newtonsoft.Json.xml
+C:\Users\Bola\Documents\Visual Studio 2013\Projects\Steemit-Widget\Steemit-Widget\obj\Release\Steemit_Widget.Form1.resources
+C:\Users\Bola\Documents\Visual Studio 2013\Projects\Steemit-Widget\Steemit-Widget\obj\Release\Steemit_Widget.Form2.resources
+C:\Users\Bola\Documents\Visual Studio 2013\Projects\Steemit-Widget\Steemit-Widget\obj\Release\Steemit_Widget.Resources.resources
+C:\Users\Bola\Documents\Visual Studio 2013\Projects\Steemit-Widget\Steemit-Widget\obj\Release\Steemit-Widget.vbproj.GenerateResource.Cache
+C:\Users\Bola\Documents\Visual Studio 2013\Projects\Steemit-Widget\Steemit-Widget\obj\Release\Steemit-Widget.vbprojResolveAssemblyReference.cache
+C:\Users\Bola\documents\visual studio 2013\Projects\Steemit-Widget\Steemit-Widget\obj\Release\Steemit_Widget.Form3.resources
+C:\Users\Bola\documents\visual studio 2013\Projects\Steemit-Widget\Steemit-Widget\bin\Release\My Steemit.exe.config
+C:\Users\Bola\documents\visual studio 2013\Projects\Steemit-Widget\Steemit-Widget\bin\Release\My Steemit.exe
+C:\Users\Bola\documents\visual studio 2013\Projects\Steemit-Widget\Steemit-Widget\bin\Release\My Steemit.pdb
+C:\Users\Bola\documents\visual studio 2013\Projects\Steemit-Widget\Steemit-Widget\bin\Release\My Steemit.xml
+C:\Users\Bola\documents\visual studio 2013\Projects\Steemit-Widget\Steemit-Widget\obj\Release\My Steemit.exe
+C:\Users\Bola\documents\visual studio 2013\Projects\Steemit-Widget\Steemit-Widget\obj\Release\My Steemit.xml
+C:\Users\Bola\documents\visual studio 2013\Projects\Steemit-Widget\Steemit-Widget\obj\Release\My Steemit.pdb
